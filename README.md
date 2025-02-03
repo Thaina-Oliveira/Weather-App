@@ -16,6 +16,10 @@ Este é um simples aplicativo de previsão do tempo desenvolvido com **HTML, CSS
 - **Tratamento de Erros** → exibição de mensagens quando a cidade não é encontrada  
 
 ## 📦 Como Usar  
-1. **Clone este repositório:**  
+1. **Clique no link para testar:**  
    ```bash
    git clone https://github.com/Thaina-Oliveira/weather-app.git
+
+
+https://github.com/user-attachments/assets/cdbce28f-a202-4532-985e-e8c047f4ba9a
+
