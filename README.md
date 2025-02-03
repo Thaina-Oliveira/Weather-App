@@ -18,7 +18,7 @@ Este é um simples aplicativo de previsão do tempo desenvolvido com **HTML, CSS
 ## 📦 Como Usar  
 1. **Clique no link para testar:**  
    ```bash
-   git clone https://github.com/Thaina-Oliveira/weather-app.git
+   https://thaina-oliveira.github.io/Weather-App/
 
 
 https://github.com/user-attachments/assets/cdbce28f-a202-4532-985e-e8c047f4ba9a
